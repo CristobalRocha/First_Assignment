@@ -1,0 +1,70 @@
+
+
+header {
+    background-color:dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
+
+nav a {
+    padding: 1%;
+    color: white;
+    width: 100%;
+}
+
+nav {
+    background-color: dimgrey;
+    padding: 1%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 2%;
+}
+
+.left-column {
+    background-color: lightgray;
+    color: black;
+    width: 30%;
+    float: left;
+    height: 140vh;
+    padding: 2%;
+}
+
+.profile-pic {
+    height: 50vh;
+    width: 95%;
+    padding-top: 12%;
+}
+
+.right-pic {
+    width: 70%;
+    height: 50vh;
+    padding-left: 15%;
+}
+
+.right-pic2{
+    width: 70%;
+    height: 30vh;
+    padding-left: 15%;
+}
+
+.right-column {
+    width: 62%;
+    height: 140vh;
+    float: left;
+    padding: 2%;
+    background-color: cornflowerblue;
+}
+
+
+main {
+    display: table;
+    clear: both;
+    width: 100%;
+}
